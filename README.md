@@ -2,6 +2,8 @@
 
 ## 效果图
 
+![avatar](asset/image/demo.gif)
+
 ## 依赖
 
 ```
